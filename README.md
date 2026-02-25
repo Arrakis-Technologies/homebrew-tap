@@ -1,6 +1,6 @@
 # Arrakis Homebrew Tap
 
-Homebrew formulae for [Arrakis](https://github.com/arrakis-technologies/arrakis-platform) CLI tools.
+Homebrew formulae for Arrakis CLI tools.
 
 ## Install
 
